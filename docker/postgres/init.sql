@@ -1,0 +1,2 @@
+CREATE DATABASE k8s12f_catalog;
+CREATE DATABASE k8s12f_order;
